@@ -1,2 +1,2 @@
 # Physics-Ideas
-Some simple and interesting thought
+Some simple and interesting thoughts
